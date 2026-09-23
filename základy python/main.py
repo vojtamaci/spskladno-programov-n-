@@ -1,1 +1,5 @@
-print(5)
+x = int(input("zapiš první číslo"))
+y = int(input("zapiš druhé číslo"))
+print("součet:", x+y)
+print("rozdíl:", x-y)
+print("součin:", x*y)
